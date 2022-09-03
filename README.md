@@ -1,21 +1,18 @@
 
-### Hi there 👋, I'm Prince
-<center>
+
+<div align="center">
+  <h1>Hi there 👋, I'm Prince</h1>
   <img src="https://visitor-badge.glitch.me/badge?page_id=prinsudesu.prinsudesu" alt="Visitors Counter">
-</center>
-<hr>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
+  <br>
+  <br>
   <samp>
 A Full time Web Designer & Developer from Philippines.
 <br>I design and develop websites, web applications for startups and enterprises.
 <br>I also do freelance Private Server Game Development
-     <br><br>Contact me on <a href="mailto:prinsudesu@gmail.com">Send an Email</a>
-  </samp>
-<br><br>
-    
-</p>
+     <br><br>Contact me on my <a href="mailto:prinsudesu@gmail.com">Email</a>
+  </samp><br>
+  🥔
+  </div>
 
 <!--
 **prinsudesu/prinsudesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
