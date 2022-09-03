@@ -7,7 +7,7 @@
   <br>
   <samp>
 A Full time Web Designer & Developer from Philippines.
-<br>I design and develop websites, web applications for startups and enterprises.
+<br>I design and develop websites, web applications for individuals and companies.
 <br>I also do freelance Private Server Game Development
      <br><br>
      <a href="mailto:prinsudesu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
