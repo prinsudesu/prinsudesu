@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Prince. A Full time Web Designer & Developer from Philippines. I design and develop websites, web applications for startups and enterprises.
-I also do freelance Private Server Game Development
+<br>I also do freelance Private Server Game Development
      <br><br>Contact me on <a href="mailto:prinsudesu@gmail.com">Send an Email</a>
   </samp>
 <br><br>
