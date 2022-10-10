@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=prinsudesu&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=prinsudesu&label=Profile+views&style=flat-square)
 <div align="center">
   <h1>Hi there 👋, I'm Prince 👨‍💻</h1>
   <br>
