@@ -1,5 +1,3 @@
-
-![](https://github-readme-stats.vercel.app/api?username=prinsudesu&show_icons=true)
 ![](https://komarev.com/ghpvc/?username=prinsudesu&label=Profile+views&style=flat-square)
 <div align="center">
   <h1>Hi there 👋, I'm Prince 👨‍💻</h1>
